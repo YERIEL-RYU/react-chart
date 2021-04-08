@@ -2,8 +2,7 @@ import React from 'react';
 import {Route, Link} from 'react-router-dom';
 import Google from './components/GoogleChart';
 import Apex from './components/ApexCharts';
-import Vis from './components/Vis';
-import Wijmo from './components/Wijmo';
+import HighCharts from './components/HighCharts';
 import Home from './components/Home';
 
 const App = () => {
@@ -21,18 +20,14 @@ const App = () => {
           <Link to="/apex">react-apexcharts</Link>
         </li>
         <li>
-          <Link to="/vis">react-vis</Link>
-        </li>
-        <li>
-          <Link to="/wijmo">wijmo</Link>
+          <Link to="/highchart">highCharts</Link>
         </li>
       </ul>
       <hr />
       <Route path='/' component={Home} exact/>
       <Route path="/google" component={Google} />
       <Route path="/apex" component={Apex}/>
-      <Route path="/vis" component={Vis}/>
-      <Route path="/wijmo" component={Wijmo}/>
+      <Route path="/highchart" component={HighCharts}/>
     </div>
   );
 };
