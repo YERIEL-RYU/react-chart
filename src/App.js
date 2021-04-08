@@ -32,7 +32,7 @@ const App = () => {
       <Route path="/google" component={Google} />
       <Route path="/apex" component={Apex}/>
       <Route path="/vis" component={Vis}/>
-      <Route path="wijmo" component={Wijmo}/>
+      <Route path="/wijmo" component={Wijmo}/>
     </div>
   );
 };
