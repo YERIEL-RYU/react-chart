@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Comparison of the three charting libraries
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- React-Google-Chart
+- Apexcharts
+- highCharts
 
-## Available Scripts
+### Column Chart Example
+#### React-Google-chart
+![_2021-04-08__4 07 50](https://user-images.githubusercontent.com/66396615/114333400-2f35ad00-9b83-11eb-9f21-78feb4d7b672.png)
 
-In the project directory, you can run:
+#### Apexcharts
+![_2021-04-08__4 16 28](https://user-images.githubusercontent.com/66396615/114333619-b4b95d00-9b83-11eb-866d-ea54a02ab161.png)
 
-### `yarn start`
+#### highcharts
+![_2021-04-08__4 25 39](https://user-images.githubusercontent.com/66396615/114333722-ee8a6380-9b83-11eb-83a9-136a1aa8a74e.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Line Chart Example
+#### React-Google-Chart
+![_2021-04-08__4 08 01](https://user-images.githubusercontent.com/66396615/114333404-3066da00-9b83-11eb-802c-b7a8ac8c7ec6.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Apexcharts
+![_2021-04-08__4 19 06](https://user-images.githubusercontent.com/66396615/114333620-b5ea8a00-9b83-11eb-8619-d7d68d9c3f70.png)
 
-### `yarn test`
+#### highcharts
+![_2021-04-08__4 28 01](https://user-images.githubusercontent.com/66396615/114333725-efbb9080-9b83-11eb-9784-c266ca463c5d.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Treemap Chart Example
+#### React-Google-Chart
+![_2021-04-08__4 08 19](https://user-images.githubusercontent.com/66396615/114333414-31980700-9b83-11eb-92ee-ba684f723d04.png)
 
-### `yarn build`
+#### Apexcharts
+![_2021-04-08__4 20 30](https://user-images.githubusercontent.com/66396615/114333623-b71bb700-9b83-11eb-8478-d601724493ac.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### highcharts
+![_2021-04-08__4 29 07](https://user-images.githubusercontent.com/66396615/114333726-f0542700-9b83-11eb-8fe1-f5709cf751ea.png)
